@@ -1,3 +1,4 @@
+[![CI](https://github.com/samuel-shaibu/Restaurant-Ratings/actions/workflows/makefile.yml/badge.svg)](https://github.com/samuel-shaibu/Restaurant-Ratings/actions/workflows/makefile.yml)
 ---
 
 # 🍽️ Predicting Restaurant Ratings with Machine Learning
